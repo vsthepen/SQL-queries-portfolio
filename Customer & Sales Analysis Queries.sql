@@ -1,5 +1,5 @@
                   ---- ANALYZING SALES DATA ----
-				  ---- ALL queries written by me ---
+		---- ALL queries written by me ---
 
 --- What are the top 20 most profitable product categories ? ---
 
